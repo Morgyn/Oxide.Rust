@@ -34,4 +34,4 @@ jobs:
           fail_on_unmatched_files: true
           token: ${{ secrets.GITHUB_TOKEN }}
           body: |
-            See https://umod.org/games/rust for changes
+            See https://umod.org/games/rust for changes.
