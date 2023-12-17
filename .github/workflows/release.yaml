@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Run Build
-    uses: OxideMod/Actions/.github/workflows/game-build.yaml@main
+    uses: Morgyn/Actions/.github/workflows/game-build.yaml@main
     with:
       game: "Rust"
     secrets:
